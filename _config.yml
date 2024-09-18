@@ -44,7 +44,7 @@ port                : 4000
 host                : 127.0.0.1
 baseurl             : "" # does not include hostname
 show_dir_listing    : false
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/cayman@v0.2.0
 
 # Outputting
 permalink           : date
